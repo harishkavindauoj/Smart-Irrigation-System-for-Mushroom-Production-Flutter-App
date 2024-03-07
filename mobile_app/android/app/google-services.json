@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "248151386902",
+    "firebase_url": "https://irrigationsys-f31ac-default-rtdb.firebaseio.com",
+    "project_id": "irrigationsys-f31ac",
+    "storage_bucket": "irrigationsys-f31ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248151386902:android:2306167f887afe8dfbbe37",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWX_4atc2qGXnrz5sJpxDy2kBc39fu19Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
