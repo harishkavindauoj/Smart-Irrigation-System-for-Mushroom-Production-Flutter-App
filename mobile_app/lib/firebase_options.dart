@@ -43,43 +43,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA__5XkL0GuTJiTWNT2jQ_Y5GGO-eBx3aY',
-    appId: '1:248151386902:web:2e5b902a7c7e8b0cfbbe37',
-    messagingSenderId: '248151386902',
-    projectId: 'irrigationsys-f31ac',
-    authDomain: 'irrigationsys-f31ac.firebaseapp.com',
-    databaseURL: 'https://irrigationsys-f31ac-default-rtdb.firebaseio.com',
-    storageBucket: 'irrigationsys-f31ac.appspot.com',
-    measurementId: 'G-DM0ESNNGLX',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBWX_4atc2qGXnrz5sJpxDy2kBc39fu19Y',
-    appId: '1:248151386902:android:2306167f887afe8dfbbe37',
-    messagingSenderId: '248151386902',
-    projectId: 'irrigationsys-f31ac',
-    databaseURL: 'https://irrigationsys-f31ac-default-rtdb.firebaseio.com',
-    storageBucket: 'irrigationsys-f31ac.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAxOoyrr5mbOfmccNCVMAnZ9rFCxAlzhzY',
-    appId: '1:248151386902:ios:3751381f872fa8eafbbe37',
-    messagingSenderId: '248151386902',
-    projectId: 'irrigationsys-f31ac',
-    databaseURL: 'https://irrigationsys-f31ac-default-rtdb.firebaseio.com',
-    storageBucket: 'irrigationsys-f31ac.appspot.com',
-    iosBundleId: 'com.example.mobileApp',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAxOoyrr5mbOfmccNCVMAnZ9rFCxAlzhzY',
-    appId: '1:248151386902:ios:7b4604db11497336fbbe37',
-    messagingSenderId: '248151386902',
-    projectId: 'irrigationsys-f31ac',
-    databaseURL: 'https://irrigationsys-f31ac-default-rtdb.firebaseio.com',
-    storageBucket: 'irrigationsys-f31ac.appspot.com',
-    iosBundleId: 'com.example.mobileApp.RunnerTests',
-  );
+  //Type in your firebase configarations
 }
